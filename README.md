@@ -1,2 +1,2 @@
 # E-store
-biling software
+E-commerce software
